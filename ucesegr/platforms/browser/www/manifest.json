@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "LocAsk",
+  "short_name": "LocAsk",
+  "version": "LocAsk",
+  "description": "Mobile Application that tracks the device location and allows the user to answer pop-up questions",
+  "author": "PhoneGap Team",
+  "icons": [],
+  "start_url": "index.html"
+}
